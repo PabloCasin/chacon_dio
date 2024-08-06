@@ -1,5 +1,5 @@
 {
     "name": "Chacon DiO",
     "homeassistant": "2023.2.0",
-    "render_readme": true
+    "hacs": "1.25.0"
 }
